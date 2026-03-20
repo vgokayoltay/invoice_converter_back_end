@@ -1,0 +1,4 @@
+=== Extracted Text ===
+Metin çıkarılamadı
+
+--- spaCy Entities ---

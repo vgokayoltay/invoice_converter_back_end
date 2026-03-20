@@ -1,0 +1,70 @@
+=== Extracted Text ===
+Meryem Öztür
+yem Ozturk
+Kurumsal uretim alaninda on yili askin deneyime sahip son derece protesyonel ve kidemli bir
+resepsiyonistim Yuksek muster hacmine sahip ve iş sorumlulugunun fazla oldugu bir igletmede
+~ @ mukemmel bir muster deneyimi sunarken operasyonel verimlilig: surdurme konusunda kanitlanmig
+- yeteneklere sahibim Becerikli arkadaş canlısı ve enerjik bir kişiliğe sahibim Baskı altında ty!
+- çalışabılırım ve muster hizmelleri sektorundeki bilgilerimi ve becerilerimi güncel tutmak için yogun bir
+Ozveri gosteniyorum
+KISISEL Ig deneyimi
+an apne Kidemli Resepsiyonist Mar 2015 - Halen
+Selen Kimya
+Adres
+Mie glad oak og tl Su anda bu cok uluslu kimyasal uretim girketine gelen Ziyaretciler icin ilk iletigim kurduklar sirket
+VIAN ete Ko cael personell benim Sirketin on buro hizmetleri tle ilgili tum sorumluluklarini yonetiyorum ve bana bagli
+Teleton numarasi iki geng resepsiyonist var Bu igletmedeki gorevierim gunlari iceriyor
+DÜDÜ * XDÜU * Sirket politikaları ve prosedürleri doğrullusunda tum on buro faaliyetlerinin koordine edilmesi
+E-posta « Gelen çağrıları yanitiama ve dogru dahılı numaraya yönlendirme
+htek a? gainer tt e Arayanlarin mesajlarinin alinmasi ve dahil iletigim sistem uzerinden yonlendirilmesi
+Dogum tarihi « Ziyaretcileri kargilamak guvenlik protokollerine gore kayıllarını yapmak ve etiket vermek
+2b tau e Ziyaretgilerin agirlanmas: ve dahili personele gelislerinin bildirilmes:
+Cinsiyet « Ziyaretciler ayrildiginda etiketlerin toplanmas: ve gunluk kayıtların duzenl olarak notlarinin
+Kirche alinmasi
+Surucu ehliyeti « Toplanlı odas: ve konferans rezervasyonu icin dahili taleplerin ele alinmas:
+e e Tum rezervasyonların notlarını tulmak ve olası düzenlemeleri teyit etmek
+Linkedin « Toplant: odalarının toplantılardan once kurulup organize edildiginin ve toplantilardan sonra
+WW DlLİk ee İi eit e yaata temizlendiginin kontrol edilmesi
+ee « Toplanlılar ve konferanslar icin ikram yiyecek içeceklerin düzenlenmesi
+e Kargo teslimalları igin imza atılması ve dahıli personelin bilgilendirilmesi
+ligi Alanları « Tum kurye tahsılatlarının yapılması ve irsaliyelerin dosyalanması
+e Talep edildiginde teslim edilmeyen irsaliyelerin takibr
+Toplum onunde konusma « Saglik hiyyen ve guveniik protokollerinin surdurulmes:
+e Caligma alaninin her zaman duzenli ve temiz olmasint saglamak
+Beceriler « Resepsiyon personell için gunluk ogle yemeği ve yillik izin listesinin derlenmesi
+e Becerileri geligtirmek ve yuksek derecede profesyonellig: surdurmek için resepsiyon personelinin
+1g başında egitimi
+Isletme yonelims had geen
+Ziyaretçi kayıt detters ly: Resepsiyonist Agu 2010 - Mar 2015
+Microsott Ottice 1: Can Megikal. Istanbul
+Okulu bitirdikten hemen sonra bu hbbi ekipman ureticisine yar: zamanlı stajyer olarak katildim Ug ay
+Rezervasyon takibi Wye =
+sonra ise resepsiyonist olarak tam zamanli bir sekilde çalışmaya basladim Bu sirketteki görevlerim
+Cagn yönelimi lye şunları içermekteydi
+Ziyaretçi karşılama lye e« Gelen cagrilarin cevaplanmasi ve yonlendirilmes:
+« Gelen mesajlarin takibi ve ayni zaman gerekli mesajlarin gonderilmesi
+e Ziyaretgileri karsilama ve agirlama
+« Ziyaretciler icin hazirlanan ikramlarin duzenienmesi
+* Resepsiyon alaninin temizlenmes: ve duzenienmes!
+« Kargo teslimalları icin imza atmak ve bunları tigill personele teslim etmek
+* Sağlık hyyen ve güvenlik protokollerinin surdurulmes:
+
+--- spaCy Entities ---
+Meryem Öztür - PERSON
+2015 - TIME
+Selen Kimya
+Adres
+Mie glad oak og - ORGANIZATION
+VIAN ete Ko cael - ORGANIZATION
+Teleton - ORGANIZATION
+Kirche - ORGANIZATION
+WW DlLİk - ORGANIZATION
+Agu 2010 - TIME
+2015 - TIME
+Microsott Ottice - ORGANIZATION
+Istanbul
+Okulu - ORGANIZATION
+Ug - ORGANIZATION
+Wye - ORGANIZATION
+Cagn - ORGANIZATION
+lye - ORGANIZATION
